@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.8ae63e63.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Solidity/index.md"}'),o={name:"Solidity/index.md"};function n(r,i,s,c,d,p){return a(),t("div")}const m=e(o,[["render",n]]);export{l as __pageData,m as default};
