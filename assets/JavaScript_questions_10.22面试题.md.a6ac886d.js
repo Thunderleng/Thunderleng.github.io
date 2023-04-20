@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app.b3e1ed57.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/questions/10.22\u9762\u8BD5\u9898.md"}'),r={name:"JavaScript/questions/10.22\u9762\u8BD5\u9898.md"};function s(o,c,n,_,i,p){return e(),a("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};

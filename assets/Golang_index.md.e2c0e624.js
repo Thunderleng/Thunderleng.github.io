@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.b3e1ed57.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Golang/index.md"}'),n={name:"Golang/index.md"};function o(r,s,c,d,i,p){return t(),a("div")}const m=e(n,[["render",o]]);export{l as __pageData,m as default};
