@@ -1,0 +1,1 @@
+import{a as t,o,c as a,b as s,e as c}from"./app.dd223b19.js";const n=c("p",null,"123213",-1),i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Demo/com/file.md"}'),l={name:"Demo/com/file.md"},d=Object.assign(l,{setup(r){return(_,m)=>{const e=t("Fileupload");return o(),a("div",null,[n,s(e)])}}});export{i as __pageData,d as default};
